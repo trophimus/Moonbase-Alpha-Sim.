@@ -1,0 +1,10 @@
+C:\Users\DR BONNER\source\repos\CSC202 Moonbase Alpha First Simulation\CSC202 Moonbase Alpha First Simulation\bin\Debug\CSC202 Moonbase Alpha First Simulation.exe.config
+C:\Users\DR BONNER\source\repos\CSC202 Moonbase Alpha First Simulation\CSC202 Moonbase Alpha First Simulation\bin\Debug\CSC202 Moonbase Alpha First Simulation.exe
+C:\Users\DR BONNER\source\repos\CSC202 Moonbase Alpha First Simulation\CSC202 Moonbase Alpha First Simulation\bin\Debug\CSC202 Moonbase Alpha First Simulation.pdb
+C:\Users\DR BONNER\source\repos\CSC202 Moonbase Alpha First Simulation\CSC202 Moonbase Alpha First Simulation\obj\Debug\CSC202 Moonbase Alpha First Simulation.csproj.AssemblyReference.cache
+C:\Users\DR BONNER\source\repos\CSC202 Moonbase Alpha First Simulation\CSC202 Moonbase Alpha First Simulation\obj\Debug\CSC202_Moonbase_Alpha_First_Simulation.FormMain.resources
+C:\Users\DR BONNER\source\repos\CSC202 Moonbase Alpha First Simulation\CSC202 Moonbase Alpha First Simulation\obj\Debug\CSC202_Moonbase_Alpha_First_Simulation.Properties.Resources.resources
+C:\Users\DR BONNER\source\repos\CSC202 Moonbase Alpha First Simulation\CSC202 Moonbase Alpha First Simulation\obj\Debug\CSC202 Moonbase Alpha First Simulation.csproj.GenerateResource.cache
+C:\Users\DR BONNER\source\repos\CSC202 Moonbase Alpha First Simulation\CSC202 Moonbase Alpha First Simulation\obj\Debug\CSC202 Moonbase Alpha First Simulation.csproj.CoreCompileInputs.cache
+C:\Users\DR BONNER\source\repos\CSC202 Moonbase Alpha First Simulation\CSC202 Moonbase Alpha First Simulation\obj\Debug\CSC202 Moonbase Alpha First Simulation.exe
+C:\Users\DR BONNER\source\repos\CSC202 Moonbase Alpha First Simulation\CSC202 Moonbase Alpha First Simulation\obj\Debug\CSC202 Moonbase Alpha First Simulation.pdb
